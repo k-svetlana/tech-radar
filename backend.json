@@ -1,0 +1,212 @@
+[
+  {
+    "name": "unit-testing",
+    "ring": "adopt",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "integration-testing",
+    "ring": "adopt",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "end-to-end testing",
+    "ring": "trial",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "event-storming",
+    "ring": "hold",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "event-driven architecture",
+    "ring": "hold",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "property-based testing",
+    "ring": "hold",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "postgresql",
+    "ring": "adopt",
+    "quadrant": "platforms",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "redis",
+    "ring": "adopt",
+    "quadrant": "platforms",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "kafka",
+    "ring": "adopt",
+    "quadrant": "platforms",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "redus pubsub",
+    "ring": "adopt",
+    "quadrant": "platforms",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "opentelemetry",
+    "ring": "adopt",
+    "quadrant": "platforms",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "prometheus",
+    "ring": "adopt",
+    "quadrant": "platforms",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "keycloak",
+    "ring": "adopt",
+    "quadrant": "platforms",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "mqtt/emqx",
+    "ring": "adopt",
+    "quadrant": "platforms",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "S3",
+    "ring": "adopt",
+    "quadrant": "platforms",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "Janus",
+    "ring": "trial",
+    "quadrant": "platforms",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "Jaeger",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "OpenAPI",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "Python",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "..."
+  }
+  {
+    "name": "FastAPI",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "..."
+  }
+  {
+    "name": "PydanticV2",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "..."
+  }
+  {
+    "name": "fastapi-code-generator",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "..."
+  }
+  {
+    "name": "Sentry",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "..."
+  }
+  {
+    "name": "OpenTelemtry",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "..."
+  }
+  {
+    "name": "AioPrometheus",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "..."
+  }
+  {
+    "name": "pytest",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "..."
+  }
+  {
+    "name": "gmqtt",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "..."
+  }
+  {
+    "name": "alembic",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "..."
+  }
+  {
+    "name": "big-brother",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "linter pack"
+  }
+  {
+    "name": "msgspec",
+    "ring": "hold",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "..."
+  }
+]
