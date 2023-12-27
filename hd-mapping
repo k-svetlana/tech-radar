@@ -1,0 +1,310 @@
+[
+  {
+    "name": "unit-testing",
+    "ring": "adopt",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "integration-testing",
+    "ring": "trial",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "end-to-end testing",
+    "ring": "assess",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "mock-testing",
+    "ring": "assess",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "system design",
+    "ring": "adopt",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "containerization",
+    "ring": "adopt",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "Dynamic Child Pipelines in Gitlab CI",
+    "ring": "adopt",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "Harbor",
+    "ring": "adopt",
+    "quadrant": "platforms",
+    "isNew": "FALSE",
+    "description": "<p><a href=\"https://goharbor.io/\">goharbor.io</a></p>"
+  },
+  {
+    "name": "OSM",
+    "ring": "adopt",
+    "quadrant": "platforms",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "Amazon S3",
+    "ring": "trial",
+    "quadrant": "platforms",
+    "isNew": "FALSE",
+    "description": "<p>Amazon Cloud Object Storage <a href=\"https://aws.amazon.com/s3/\">aws.amazon.com/s3</a></p>"
+  },
+  {
+    "name": "ChatGPT",
+    "ring": "assess",
+    "quadrant": "platforms",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "VSCode",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "Gitlab CI",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "Docker",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "JOSM",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "gdal",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "QGIS",
+    "ring": "trial",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "dvc",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "<p><a href=\"https://www.jaegertracing.io/\">www.jaegertracing.io</a></p>"
+  },
+  {
+    "name": "curl/wget",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "osmium",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "ssh",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "remmina",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "c++ online compiler",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "Python online interpreter",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "gitlab web IDE",
+    "ring": "trial",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "pcl tools",
+    "ring": "trial",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "Ninja",
+    "ring": "trial",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "clang toolsr",
+    "ring": "trial",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "SonarQube",
+    "ring": "trial",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "SonarLint",
+    "ring": "trial",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "gdb",
+    "ring": "trial",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "Agisoft Metashape",
+    "ring": "hold",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "C++",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "Python",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "bash",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "cmake",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "Yaml",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "Json",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "Lanelet2",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "gdal",
+    "ring": "trial",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "osmium",
+    "ring": "trial",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "uml",
+    "ring": "assess",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "linter pack"
+  },
+  {
+    "name": "omegaconf",
+    "ring": "assess",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "linter pack"
+  },
+  {
+    "name": "Ruby",
+    "ring": "hold",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "..."
+  }
+]
